@@ -5,15 +5,12 @@ authors:
     email: charl-cv@devserv.me
     link: https://charl-cv@devserv.me
     avatar: https://assets.devserv.me/avatars/darker.jpg
-categories:
-  - index
-  - home
 date: 2022-02-07T16:58
 description: Main documentation index for DEVserv.ME
 expanded: true
 icon: milestone
 tags: 
-  - index
+  #- index
   - home
   - root
   - backups
