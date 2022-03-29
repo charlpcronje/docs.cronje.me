@@ -3,7 +3,7 @@ title: DEVserv.ME Home
 authors:
   - name: Charl Cronje
     email: charl-cv@devserv.me
-    link: https://charl-cv@devserv.me
+    link: https://charl-cv.devserv.me
     avatar: https://assets.devserv.me/avatars/darker.jpg
 date: 2022-03-07T16:58
 description: Main documentation index for DEVserv.ME
