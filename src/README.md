@@ -67,3 +67,5 @@ DEVserv.ME Development Server by webAlly | [Charl Cronje](https://charl-cv.devse
 Also for fun add the binary value of the section heading
 
 [!ref icon="copy" target="blank" text="ASCII Text Generator - Binary"](https://patorjk.com/software/taag/#p=display&f=Binary&t=NEW.DOCS.ME)
+
+Just for fun check out: [https://breakthecode.tech/game](https://breakthecode.tech/game)
