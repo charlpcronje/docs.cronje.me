@@ -8,5 +8,5 @@ _  /_/ /_  /___  __ |/ / _(__  )/  __/  /   __ |/ /___  /  / / _  /___
 00101101  01100100 01100101 01110110 01110011 01100101  01110010  01110110 
 ```
 
-- This repo will become a sub-module of docs.devserv.me.
+- This repo will become a sub-module of docs.CRONje.ME.
 - Go to [./src/README.md](./src/README.md) for the root of this repo

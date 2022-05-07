@@ -1,12 +1,12 @@
 ---
-title: DEVserv.ME Home
+title: CRONje.ME Home
 authors:
   - name: Charl Cronje
-    email: charl-cv@devserv.me
-    link: https://charl-cv.devserv.me
-    avatar: https://assets.devserv.me/avatars/darker.jpg
+    email: charl-cv@CRONje.ME
+    link: https://charl-cv.CRONje.ME
+    avatar: https://assets.CRONje.ME/avatars/darker.jpg
 date: 2022-03-07T16:58
-description: Main documentation index for DEVserv.ME
+description: Main documentation index for CRONje.ME
 expanded: true
 icon: milestone
 tags: 
@@ -35,28 +35,28 @@ _  /_/ /_  /___  __ |/ / _(__  )/  __/  /   __ |/ /___  /  / / _  /___
 00101101  01100100 01100101 01110110 01110011 01100101  01110010  01110110 
 ```
 
-DEVserv.ME Development Server by webAlly | [Charl Cronje](https://charl-cv.devserv.me)
+CRONje.ME Development Server by webAlly | [Charl Cronje](https://charl-cv.CRONje.ME)
 
 | Document                                                                 | Description                                |
 |--------------------------------------------------------------------------|--------------------------------------------|
-| :icon-markdown: [ARM Docs](https://arm.docs.devserv.me)                  | Raspberry Pi Documentation                 |
-| :icon-markdown: [Backups](https://backup.docs.devserv.me)                | Incremental Config backups with GIT        |
-| :icon-markdown: [Bash](https://bash.docs.devserv.me)                     | Bash Scripting                             |
-| :icon-markdown: [Development](https://dev.docs.devserv.me)               | Web / Terminal / Windows / App Development |
-| :icon-markdown: [GitHub Gists](https://gist.docs.devserv.me)             | GitHub Gists (Code snippets and scrips)    |
-| :icon-markdown: [HeEPP](https://heepp.docs.devserv.me)                   | HeEPP Model View Controller Framework      |
-| :icon-markdown: [Notes and Links](https://notes.docs.devserv.me)         | Some notes worth sharing with some links   |
-| :icon-markdown: [Open Source Stuff](https://opensource.docs.devserv.me)  | Open Source Stuff                          |
-| :icon-markdown: [Project Notes](https://projects.docs.devserv.me)        | Project notes, planning and conclusion     |
-| :icon-markdown: [Reports Server](https://reports.docs.devserv.me)        | BI, RMarkdown, Jasper Reports Server API   |
-| :icon-markdown: [Interesting GitHub Repos](http://repos.docs.devserv.me) | Repos with Good code Examples or Projects  |
-| :icon-markdown: [Laravel Orion API](https://orion.docs.devserv.me)       | Laravel Orion API                          |
-| :icon-markdown: [Software as a Service](http://saas.docs.devserv.me)     | Services I use and create fall under SaaS  |
-| :icon-markdown: [Server Settings](https://server.docs.devserv.me)        | Configs / Virtual Hosts / Sub-domains      |
-| :icon-markdown: [Server & Software Setup](https://setup.docs.devserv.me) | Server & Software Setup                    |
-| :icon-markdown: [Productivity Tips](https://tips.docs.devserv.me)        | Tips on creating Productive workflows      |
-| :icon-markdown: [Terminal & Self Hosted](https://tools.docs.devserv.me)  | Terminal and Web-Applications              |
-| :icon-markdown: [Online Trading](https://trading.docs.devserv.me)        | Online Trading, Stocks, Crypto & Forex     | 
+| :icon-markdown: [ARM Docs](https://arm.docs.CRONje.ME)                  | Raspberry Pi Documentation                 |
+| :icon-markdown: [Backups](https://backup.docs.CRONje.ME)                | Incremental Config backups with GIT        |
+| :icon-markdown: [Bash](https://bash.docs.CRONje.ME)                     | Bash Scripting                             |
+| :icon-markdown: [Development](https://dev.docs.CRONje.ME)               | Web / Terminal / Windows / App Development |
+| :icon-markdown: [GitHub Gists](https://gist.docs.CRONje.ME)             | GitHub Gists (Code snippets and scrips)    |
+| :icon-markdown: [HeEPP](https://heepp.docs.CRONje.ME)                   | HeEPP Model View Controller Framework      |
+| :icon-markdown: [Notes and Links](https://notes.docs.CRONje.ME)         | Some notes worth sharing with some links   |
+| :icon-markdown: [Open Source Stuff](https://opensource.docs.CRONje.ME)  | Open Source Stuff                          |
+| :icon-markdown: [Project Notes](https://projects.docs.CRONje.ME)        | Project notes, planning and conclusion     |
+| :icon-markdown: [Reports Server](https://reports.docs.CRONje.ME)        | BI, RMarkdown, Jasper Reports Server API   |
+| :icon-markdown: [Interesting GitHub Repos](http://repos.docs.CRONje.ME) | Repos with Good code Examples or Projects  |
+| :icon-markdown: [Laravel Orion API](https://orion.docs.CRONje.ME)       | Laravel Orion API                          |
+| :icon-markdown: [Software as a Service](http://saas.docs.CRONje.ME)     | Services I use and create fall under SaaS  |
+| :icon-markdown: [Server Settings](https://server.docs.CRONje.ME)        | Configs / Virtual Hosts / Sub-domains      |
+| :icon-markdown: [Server & Software Setup](https://setup.docs.CRONje.ME) | Server & Software Setup                    |
+| :icon-markdown: [Productivity Tips](https://tips.docs.CRONje.ME)        | Tips on creating Productive workflows      |
+| :icon-markdown: [Terminal & Self Hosted](https://tools.docs.CRONje.ME)  | Terminal and Web-Applications              |
+| :icon-markdown: [Online Trading](https://trading.docs.CRONje.ME)        | Online Trading, Stocks, Crypto & Forex     | 
 
 ## Adding more sections
 
