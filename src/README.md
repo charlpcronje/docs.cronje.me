@@ -1,5 +1,12 @@
 ---
-title: Charl Cronje | Docs Home
+branding:
+  title: Documentation Home - by Charl Cronje
+  label: docs
+  logo: static/logo.png
+  logoDark: static/logo-dark.png
+  logoAlign: right
+edit:
+  repo: "https://github.com/<your-organization>/<your-repo>/"
 authors:
   - name: Charl Cronje
     email: charl@cronje.me
