@@ -62,7 +62,7 @@ CRONje.ME Development Server by webAlly | [Charl Cronje](https://blog.cronje.me)
 | :icon-markdown: [Productivity Tips](https://tips.docs.cronje.me)          | Tips on creating Productive workflows      |
 | :icon-markdown: [Terminal & Self Hosted](https://tools.docs.cronje.me)    | Terminal and Web-Applications              |
 | :icon-markdown: [Trading & Crypto](https://trading.docs.cronje.me)        | Trading and Crypto Markets                 |
-| :icon-markdown: [Windows Tips](https://win.docs.cronje.me)                | Windows 10 & 11 Tips and Tricks            |
+| :icon-markdown: [Windows Tips (Empty)](https://win.docs.cronje.me)        | Windows 10 & 11 Tips and Tricks            |
 
 
 ## Adding more sections
