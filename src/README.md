@@ -1,12 +1,7 @@
 ---
-branding:
-  title: Documentation Home - by Charl Cronje
-  label: docs
-  logo: static/logo.png
-  logoDark: static/logo-dark.png
-  logoAlign: right
-edit:
-  repo: "https://github.com/<your-organization>/<your-repo>/"
+title: Server & Software Setup | CRONje.ME
+label: Server
+order: 100
 authors:
   - name: Charl Cronje
     email: charl@cronje.me
@@ -14,22 +9,31 @@ authors:
     avatar: https://assets.cronje.me/avatars/darker.jpg
 date: 2022-03-07T16:58
 description: Main documentation index for CRONje.ME
-expanded: true
-icon: milestone
-tags: 
-  - index
-  - home
-  - root
-  - backups
-  - bash
-  - development
-  - server
-  - docs
-  - setup
-  - tools
-  - reports
-# route: /custom/path
-order: 1
+edit:
+  repo: "https://github.com/charlpcronje/setup.docs.devserv.me/edit/"
+  base: /src
+  branch: main
+  label: Edit on GitHub
+editor:
+  enabled: false
+favicon: favicon.png
+links:
+- text: Dashboard
+  link: https://nav.cronje.me
+- text: Blog / Portfolio
+  link: https://blog.cronje.me
+- text: Wiki, Tips and Docs 
+  link: https://docs.cronje.me
+- text: My CV
+  link: https://cv.cronje.me
+- text: LinkedIn
+  link: https://www.linkedin.com/in/charlpcronje
+- text: GitHub
+  link: https://github.com/charlpcronje
+- text: Upwork Profile
+  link: https://www.upwork.com/freelancers/~01ccb1439024ec9c50
+footer:
+  copyright: "webAlly &copy; Copyright {{ year }}. All rights reserved."
 ---
 <script type="text/javascript">(function(w,s){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://cdn.pagesense.io/js/webally/f2527eebee974243853bcd47b32631f4.js";var x=document.getElementsByTagName("script")[0];x.parentNode.insertBefore(e,x);})(window,"script");</script>
 
@@ -51,6 +55,7 @@ CRONje.ME Development Server by webAlly | [Charl Cronje](https://blog.cronje.me)
 | :icon-markdown: [ARM Docs](https://arm.docs.cronje.me)                    | Raspberry Pi Documentation                 |
 | :icon-markdown: [Backups](https://backup.docs.cronje.me)                  | Incremental Config backups with GIT        |
 | :icon-markdown: [Bash](https://bash.docs.cronje.me)                       | Bash Scripting                             |
+| :icon-markdown: [Bash](https://crypto.docs.cronje.me)                     | Bash Scripting                             |
 | :icon-markdown: [Development](https://dev.docs.cronje.me)                 | Web / Terminal / Windows / App Development |
 | :icon-markdown: [GitHub Gists](https://gist.docs.cronje.me)               | GitHub Gists (Code snippets and scrips)    |
 | :icon-markdown: [Hacking & Info Gatering](https://hacking.docs.cronje.me) | Hacking, Information gathering, Spoofing,  |
