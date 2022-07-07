@@ -10,7 +10,7 @@ authors:
 date: 2022-03-07T16:58
 description: Main documentation index for CRONje.ME
 edit:
-  repo: "https://github.com/charlpcronje/setup.docs.devserv.me/edit/"
+  repo: "https://github.com/charlpcronje/docs.cronje.me/edit/"
   base: /src
   branch: main
   label: Edit on GitHub
