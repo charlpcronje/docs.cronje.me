@@ -50,24 +50,29 @@ _  /_/ /_  /___  __ |/ / _(__  )/  __/  /   __ |/ /___  /  / / _  /___
 
 CRONje.ME Development Server by webAlly | [Charl Cronje](https://blog.cronje.me)
 
-| Document                                                                  | Description                                |
-|---------------------------------------------------------------------------|--------------------------------------------|
-| :icon-markdown: [ARM Docs](https://arm.docs.cronje.me)                    | Raspberry Pi Documentation                 |
-| :icon-markdown: [Backups](https://backup.docs.cronje.me)                  | Incremental Config backups with GIT        |
-| :icon-markdown: [Bash](https://bash.docs.cronje.me)                       | Bash Scripting                             |
-| :icon-markdown: [Bash](https://crypto.docs.cronje.me)                     | Bash Scripting                             |
-| :icon-markdown: [Development](https://dev.docs.cronje.me)                 | Web / Terminal / Windows / App Development |
-| :icon-markdown: [GitHub Gists](https://gist.docs.cronje.me)               | GitHub Gists (Code snippets and scrips)    |
-| :icon-markdown: [Hacking & Info Gatering](https://hacking.docs.cronje.me) | Hacking, Information gathering, Spoofing,  |
-| :icon-markdown: [HeEPP](https://heepp.docs.cronje.me)                     | HeEPP Model View Controller Framework      |
-| :icon-markdown: [Open Source](https://opensource.docs.cronje.me)          | What is awesome, how you can contribute    |
-| :icon-markdown: [Projects](https://projects.docs.cronje.me)               | Some notes on projects I worked no         |
-| :icon-markdown: [Software as a Service](https://saas.docs.cronje.me)      | Services I can recommend or created myself |
-| :icon-markdown: [Server & Software Setup](https://setup.docs.cronje.me)   | Server & Software Setup                    |
-| :icon-markdown: [Productivity Tips](https://tips.docs.cronje.me)          | Tips on creating Productive workflows      |
-| :icon-markdown: [Terminal & Self Hosted](https://tools.docs.cronje.me)    | Terminal and Web-Applications              |
-| :icon-markdown: [Trading & Crypto](https://trading.docs.cronje.me)        | Trading and Crypto Markets                 |
-| :icon-markdown: [Windows Tips (Empty)](https://win.docs.cronje.me)        | Windows 10 & 11 Tips and Tricks            |
+| Document                                                                    | Description                                |
+|-----------------------------------------------------------------------------|--------------------------------------------|
+| :icon-markdown: [Android Docs](https://android.docs.cronje.me)              | Using Linux tools on your android device   |
+| :icon-markdown: [ARM Docs](https://arm.docs.cronje.me)                      | Raspberry Pi Documentation                 |
+| :icon-markdown: [Backups & Config](https://backup.docs.cronje.me)           | Incremental Config backups with GIT        |
+| :icon-markdown: [Bash](https://bash.docs.cronje.me)                         | Bash Scripting                             |
+| :icon-markdown: [Crypto & Mining](https://crypto.docs.cronje.me)            | Crypto, Mining, Decentralization & Web 3.0 |
+| :icon-markdown: [Development](https://dev.docs.cronje.me)                   | Web / Terminal / Windows / App Development |
+| :icon-markdown: [GitHub Gists](https://gist.docs.cronje.me)                 | GitHub Gists (Code snippets and scrips)    |
+| :icon-markdown: [Hacking & Info Gatering](https://hacking.docs.cronje.me)   | Hacking, Information gathering, Spoofing,  |
+| :icon-markdown: [HeEPP](https://heepp.docs.cronje.me)                       | HeEPP Model View Controller Framework      |
+| :icon-markdown: [Kali Linux](https://kali.docs.cronje.me)                   | KALI Linux Docs & Setup                    |
+| :icon-markdown: [Notes and Links](https://kali.docs.cronje.me)              | Some things I need to remeber with links   |
+| :icon-markdown: [Open Source](https://opensource.docs.cronje.me)            | What is awesome, how you can contribute    |
+| :icon-markdown: [Projects](https://projects.docs.cronje.me)                 | Some notes on projects I worked no         |
+| :icon-markdown: [Repositories](https://repos.docs.cronje.me)                | GitHub Repos worth looking at              |
+| :icon-markdown: [Software as a Service](https://saas.docs.cronje.me)        | Services I can recommend or created myself |
+| :icon-markdown: [Server & Software Setup](https://setup.docs.cronje.me)     | Server & Software Setup                    |
+| :icon-markdown: [Tips & Productivity](https://tips.docs.cronje.me)          | Tips on creating Productive workflows      |
+| :icon-markdown: [Tools and Self Hosted](https://tools.docs.cronje.me)       | Terminal and Web-Applications              |
+| :icon-markdown: [Trading & Crypto](https://trading.docs.cronje.me)          | Trading and Crypto Markets                 |
+| :icon-markdown: [Troubleshooting Docs](https://troubleshoot.docs.cronje.me) | Troubleshooting Documentation              |
+| :icon-markdown: [Windows Tips (Empty)](https://win.docs.cronje.me)          | Windows 10 & 11 Tips and Tricks            |
 
 
 ## Adding more sections
