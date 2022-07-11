@@ -1,6 +1,6 @@
 ---
-title: Server & Software Setup | CRONje.ME
-label: Server
+title: My Documentation | CRONje.ME
+label: DOCS
 order: 100
 authors:
   - name: Charl Cronje
@@ -58,7 +58,6 @@ CRONje.ME Development Server by webAlly | [Charl Cronje](https://blog.cronje.me)
 | :icon-markdown: [Bash](https://bash.docs.cronje.me)                         | Bash Scripting                             |
 | :icon-markdown: [Crypto & Mining](https://crypto.docs.cronje.me)            | Crypto, Mining, Decentralization & Web 3.0 |
 | :icon-markdown: [Development](https://dev.docs.cronje.me)                   | Web / Terminal / Windows / App Development |
-| :icon-markdown: [Docker, Docs and Examples](https://docker.docs.cronje.me)  | WTF is Docker and why to people use it?    |
 | :icon-markdown: [GitHub Gists](https://gist.docs.cronje.me)                 | GitHub Gists (Code snippets and scrips)    |
 | :icon-markdown: [Hacking & Info Gatering](https://hacking.docs.cronje.me)   | Hacking, Information gathering, Spoofing,  |
 | :icon-markdown: [HeEPP](https://heepp.docs.cronje.me)                       | HeEPP Model View Controller Framework      |
@@ -67,6 +66,7 @@ CRONje.ME Development Server by webAlly | [Charl Cronje](https://blog.cronje.me)
 | :icon-markdown: [Open Source](https://opensource.docs.cronje.me)            | What is awesome, how you can contribute    |
 | :icon-markdown: [Projects](https://projects.docs.cronje.me)                 | Some notes on projects I worked no         |
 | :icon-markdown: [Repositories](https://repos.docs.cronje.me)                | GitHub Repos worth looking at              |
+| :icon-markdown: [Reporting & BI](https://reports.docs.cronje.me)            | Reporting & BI with Jasper Reports         |
 | :icon-markdown: [Software as a Service](https://saas.docs.cronje.me)        | Services I can recommend or created myself |
 | :icon-markdown: [Server & Software Setup](https://setup.docs.cronje.me)     | Server & Software Setup                    |
 | :icon-markdown: [Tips & Productivity](https://tips.docs.cronje.me)          | Tips on creating Productive workflows      |
