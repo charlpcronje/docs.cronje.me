@@ -58,6 +58,7 @@ CRONje.ME Development Server by webAlly | [Charl Cronje](https://blog.cronje.me)
 | :icon-markdown: [Bash](https://bash.docs.cronje.me)                         | Bash Scripting                             |
 | :icon-markdown: [Crypto & Mining](https://crypto.docs.cronje.me)            | Crypto, Mining, Decentralization & Web 3.0 |
 | :icon-markdown: [Development](https://dev.docs.cronje.me)                   | Web / Terminal / Windows / App Development |
+| :icon-markdown: [DNS, MX Records, CNAME](https://dns.docs.cronje.me)        | Domain Name System | Mail exchange etc     |
 | :icon-markdown: [GitHub Gists](https://gist.docs.cronje.me)                 | GitHub Gists (Code snippets and scrips)    |
 | :icon-markdown: [Hacking & Info Gatering](https://hacking.docs.cronje.me)   | Hacking, Information gathering, Spoofing,  |
 | :icon-markdown: [HeEPP](https://heepp.docs.cronje.me)                       | HeEPP Model View Controller Framework      |
