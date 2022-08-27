@@ -66,6 +66,8 @@ CRONje.ME Development Server by webAlly | [Charl Cronje](https://blog.cronje.me)
 | :icon-markdown: [Notes and Links](https://notes.docs.cronje.me)             | Some things I need to remeber with links   |
 | :icon-markdown: [Open Source](https://opensource.docs.cronje.me)            | What is awesome, how you can contribute    |
 | :icon-markdown: [Projects](https://projects.docs.cronje.me)                 | Some notes on projects I worked no         |
+| :icon-markdown: [PHP Development](https://php.docs.cronje.me)               | PHP Backend Development                    |
+| :icon-markdown: [Perl Development](https://perl.docs.cronje.me)             | Perl Server Side Development               |
 | :icon-markdown: [Repositories](https://repos.docs.cronje.me)                | GitHub Repos worth looking at              |
 | :icon-markdown: [Reporting & BI](https://reports.docs.cronje.me)            | Reporting & BI with Jasper Reports         |
 | :icon-markdown: [Software as a Service](https://saas.docs.cronje.me)        | Services I can recommend or created myself |
@@ -81,10 +83,10 @@ CRONje.ME Development Server by webAlly | [Charl Cronje](https://blog.cronje.me)
 
 - The ASCII font mostly used for section heading is `Contessa`.
 
-[!ref icon="copy" target="blank" text="ASCII Text Generator - Contessa"](https://patorjk.com/software/taag/#p=display&f=Contessa&t=NEW.DOCS.ME)
+[!ref icon="copy" target="blank" text="ASCII - Contessa"](https://patorjk.com/software/taag/#p=display&f=Contessa&t=NEW.DOCS.ME)
 
 Also for fun add the binary value of the section heading
 
-[!ref icon="copy" target="blank" text="ASCII Text Generator - Binary"](https://patorjk.com/software/taag/#p=display&f=Binary&t=NEW.DOCS.ME)
+[!ref icon="copy" target="blank" text="ASCII - Binary"](https://patorjk.com/software/taag/#p=display&f=Binary&t=NEW.DOCS.ME)
 
 Just for fun check out: [https://breakthecode.tech/game](https://breakthecode.tech/game)
