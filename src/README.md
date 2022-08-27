@@ -62,6 +62,7 @@ CRONje.ME Development Server by webAlly | [Charl Cronje](https://blog.cronje.me)
 | :icon-markdown: [GitHub Gists](https://gist.docs.cronje.me)                 | GitHub Gists (Code snippets and scrips)    |
 | :icon-markdown: [Hacking & Info Gatering](https://hacking.docs.cronje.me)   | Hacking, Information gathering, Spoofing,  |
 | :icon-markdown: [HeEPP](https://heepp.docs.cronje.me)                       | HeEPP Model View Controller Framework      |
+| :icon-markdown: [JavaScript + (Node.js)](https://js.docs.cronje.me)         | JavaScript Front and Backend (Node.js)     |
 | :icon-markdown: [Kali Linux](https://kali.docs.cronje.me)                   | KALI Linux Docs & Setup                    |
 | :icon-markdown: [Notes and Links](https://notes.docs.cronje.me)             | Some things I need to remeber with links   |
 | :icon-markdown: [Open Source](https://opensource.docs.cronje.me)            | What is awesome, how you can contribute    |
