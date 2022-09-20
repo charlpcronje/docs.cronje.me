@@ -7,7 +7,7 @@ authors:
     email: charl@cronje.me
     link: https://blog.cronje.me
     avatar: https://assets.cronje.me/avatars/darker.jpg
-date: 2022-03-07T16:58
+date: 2022-09-20T16:58
 description: Main documentation index for CRONje.ME
 edit:
   repo: "https://github.com/charlpcronje/docs.cronje.me/edit/"
@@ -64,6 +64,7 @@ CRONje.ME Development Server by webAlly | [Charl Cronje](https://blog.cronje.me)
 | :icon-markdown: [HeEPP](https://heepp.docs.cronje.me)                       | HeEPP Model View Controller Framework      |
 | :icon-markdown: [JavaScript + (Node.js)](https://js.docs.cronje.me)         | JavaScript Front and Backend (Node.js)     |
 | :icon-markdown: [Kali Linux](https://kali.docs.cronje.me)                   | KALI Linux Docs & Setup                    |
+| :icon-markdown: [Mongo NoSQL DB](https://mongo.docs.cronje.me)              | Eloquent model & Query builder for MongoDB |
 | :icon-markdown: [Notes and Links](https://notes.docs.cronje.me)             | Some things I need to remeber with links   |
 | :icon-markdown: [Open Source](https://opensource.docs.cronje.me)            | What is awesome, how you can contribute    |
 | :icon-markdown: [Projects](https://projects.docs.cronje.me)                 | Some notes on projects I worked no         |
@@ -77,7 +78,7 @@ CRONje.ME Development Server by webAlly | [Charl Cronje](https://blog.cronje.me)
 | :icon-markdown: [Tools and Self Hosted](https://tools.docs.cronje.me)       | Terminal and Web-Applications              |
 | :icon-markdown: [Trading & Crypto](https://trading.docs.cronje.me)          | Trading and Crypto Markets                 |
 | :icon-markdown: [Troubleshooting Docs](https://troubleshoot.docs.cronje.me) | Troubleshooting Documentation              |
-| :icon-markdown: [Windows Tips (Empty)](https://win.docs.cronje.me)          | Windows 10 & 11 Tips and Tricks            |
+| :icon-markdown: [Windows Tips](https://win.docs.cronje.me)                  | Windows 10 & 11 Tips and Tricks            |
 
 
 ## Adding more sections
