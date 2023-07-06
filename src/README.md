@@ -6,7 +6,7 @@ authors:
   - name: Charl Cronje
     email: charl@cronje.me
     link: https://blog.cronje.me
-    avatar: https://assets.cronje.me/avatars/darker.jpg
+    avatar: https://avatars.githubusercontent.com/u/9626228?v=4
 date: 2022-09-20T16:58
 description: Main documentation index for CRONje.ME
 edit:
@@ -52,6 +52,7 @@ CRONje.ME Development Server by webAlly | [Charl Cronje](https://blog.cronje.me)
 
 | Document                                                                    | Description                                |
 |-----------------------------------------------------------------------------|--------------------------------------------|
+| :icon-markdown: [AI Docs](https://ai.docs.cronje.me)                        | Artificial Intelligence tools and docs     |
 | :icon-markdown: [Android Docs](https://android.docs.cronje.me)              | Using Linux tools on your android device   |
 | :icon-markdown: [ARM Docs](https://arm.docs.cronje.me)                      | Raspberry Pi Documentation                 |
 | :icon-markdown: [Backups & Config](https://backup.docs.cronje.me)           | Incremental Config backups with GIT        |
@@ -65,7 +66,7 @@ CRONje.ME Development Server by webAlly | [Charl Cronje](https://blog.cronje.me)
 | :icon-markdown: [JavaScript + (Node.js)](https://js.docs.cronje.me)         | JavaScript Front and Backend (Node.js)     |
 | :icon-markdown: [Kali Linux](https://kali.docs.cronje.me)                   | KALI Linux Docs & Setup                    |
 | :icon-markdown: [Mongo NoSQL DB](https://mongo.docs.cronje.me)              | Eloquent model & Query builder for MongoDB |
-| :icon-markdown: [Notes and Links](https://notes.docs.cronje.me)             | Some things I need to remeber with links   |
+| :icon-markdown: [Notes and Links](https://notes.docs.cronje.me)             | Some things I need to remember with links  |
 | :icon-markdown: [Open Source](https://opensource.docs.cronje.me)            | What is awesome, how you can contribute    |
 | :icon-markdown: [Projects](https://projects.docs.cronje.me)                 | Some notes on projects I worked no         |
 | :icon-markdown: [PHP Development](https://php.docs.cronje.me)               | PHP Backend Development                    |
